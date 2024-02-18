@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Vishnuvarthanaadhi
+# 👋 Hi, I'm Vishnuvarthan Adhimoolam
 
 ## 👀 About Me
 I'm a passionate software engineer with over 3 years of experience in Java and REST API development.
