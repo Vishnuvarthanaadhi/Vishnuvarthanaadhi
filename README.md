@@ -18,6 +18,8 @@ Currently pursuing a Master's in Data Analytics with a keen interest in AI proje
 - Email: vishnuvarthanaadhi@gmail.com
 - LinkedIn: [Vishnuvarthanaadhi](https://www.linkedin.com/in/vishnuvarthanaadhi)
 - GitHub: [@Vishnuvarthanaadhi](https://github.com/Vishnuvarthanaadhi)
+## 📝 Resume
+You can view my resume [here](link_to_your_resume)
 
 ## 😄 Pronouns
 He/Him
