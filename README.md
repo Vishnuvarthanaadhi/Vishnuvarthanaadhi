@@ -16,7 +16,7 @@ Currently pursuing a Master's in Data Analytics with a keen interest in AI proje
 
 ## 📫 How to Reach Me
 - Email: vishnuvarthanaadhi@gmail.com
-- LinkedIn: [Vishnuvarthanaadhi](https://www.linkedin.com/in/vishnuvarthanaadhi)
+- LinkedIn: [Vishnuvarthanaadhi](https://www.linkedin.com/in/vishnuvarthan-adhimoolam-165865192/)
 - GitHub: [@Vishnuvarthanaadhi](https://github.com/Vishnuvarthanaadhi)
 ## 📝 Resume
 You can view my resume [here](https://github.com/Vishnuvarthanaadhi/Vishnuvarthanaadhi/blob/df1cb98c2ea4eb2d12605de174e39d2670acb2aa/VISHNUVARTHAN-ADHIMOOLAM-Resume.pdf)
