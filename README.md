@@ -19,7 +19,7 @@ Currently pursuing a Master's in Data Analytics with a keen interest in AI proje
 - LinkedIn: [Vishnuvarthanaadhi](https://www.linkedin.com/in/vishnuvarthanaadhi)
 - GitHub: [@Vishnuvarthanaadhi](https://github.com/Vishnuvarthanaadhi)
 ## 📝 Resume
-You can view my resume [here](link_to_your_resume)
+You can view my resume [here](https://github.com/Vishnuvarthanaadhi/Vishnuvarthanaadhi/blob/df1cb98c2ea4eb2d12605de174e39d2670acb2aa/VISHNUVARTHAN-ADHIMOOLAM-Resume.pdf)
 
 ## 😄 Pronouns
 He/Him
