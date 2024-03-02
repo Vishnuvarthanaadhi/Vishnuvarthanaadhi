@@ -7,7 +7,8 @@ Currently pursuing a Master's in Data Analytics with a keen interest in AI proje
 ## 🌱 Currently Learning
 - Advanced data analytics techniques
 - Deep learning and neural networks
-- Cloud computing and DevOps practices
+- Full Stack Development
+- German Language
 
 ## 💼 I'm Open to Collaborate On
 - Open-source projects related to software development, data analytics, and AI
